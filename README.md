@@ -1,4 +1,4 @@
-# Murphy et al. (2022) Growth characteristics of co-culture tumour spheroids
+# Murphy et al. (2022) Growth and formation characteristics of co-culture tumour spheroids
 
 
 Preprint to appear soon.
