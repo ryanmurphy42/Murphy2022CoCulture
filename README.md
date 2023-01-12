@@ -24,6 +24,6 @@ The script InstallPackages.jl can be used to install packages (by uncommenting t
 | :---:   | :---: | :---: |:---: |:---: |
 |1| Fig2.jl    |biphasic model | 1205Lu  spheroid size  | Fig2data.csv |
 |2| Fig3.jl      | linear model      |   WM983b spheroid size   |  Fig3data.csv|
-|3|  Fig5.jl |  monoculture reduced Greenspanb model     |   WM983b spheroid size and structure  | Fig5data.csv|
+|3|  Fig5.jl |  monoculture reduced Greenspan model     |   WM983b spheroid size and structure  | Fig5data.csv|
 |4| Fig7AB.jl  | two compartment two population reduced Greenspan model (heterogeneous s)    |    WM983b spheroid size and structure |  Fig7data.csv|
 |5| FigGH.jl | three compartment two population reduced Greenspan model (heterogeneous Rd and additional cell migration)       |   WM983b spheroid size and structure | Fig7data.csv|****
