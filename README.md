@@ -1,6 +1,6 @@
-# Murphy et al. (2022) Formation and growth characteristics of co-culture tumour spheroids https://doi.org/10.1101/2022.07.27.501797 
+# Murphy et al. (2022) Formation and growth characteristics of co-culture tumour spheroids https://doi.org/10.1101/2022.12.21.521515
 
-Preprint available on bioRxiv: https://doi.org/10.1101/2022.07.27.501797 
+Preprint available on bioRxiv: https://doi.org/10.1101/2022.12.21.521515
 
 
 This repository holds key Julia code and all experimental data used to generate figures in the manuscript.
