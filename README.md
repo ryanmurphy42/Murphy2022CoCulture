@@ -27,3 +27,7 @@ The script InstallPackages.jl can be used to install packages (by uncommenting t
 |3|  Fig5.jl |  monoculture reduced Greenspanb model     |   WM983b spheroid size and structure  | Fig5data.csv|
 |4| Fig7AB.jl  | two compartment two population reduced Greenspan model (heterogeneous s)    |    WM983b spheroid size and structure |  Fig7data.csv|
 |5| FigGH.jl | three compartment two population reduced Greenspan model (heterogeneous Rd and additional cell migration)       |   WM983b spheroid size and structure | Fig7data.csv|
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |****
