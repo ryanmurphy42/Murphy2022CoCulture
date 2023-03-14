@@ -1,4 +1,4 @@
-# Murphy et al. (2022) - CoCulture Spheroids - Plots for Figure 9A and 9B (TWO population THREE compartment reduced Greenspan model - heterogeneous Rd and transport)
+# Murphy et al. (2022) - CoCulture Spheroids - Plots for Figure 9G and 9H (TWO population THREE compartment reduced Greenspan model - heterogeneous Rd and transport)
 
 #######################################################################################
 ## Initialisation including packages, plot options, filepaths to save outputs
