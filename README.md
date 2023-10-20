@@ -1,6 +1,6 @@
 # Murphy et al. (2022) Formation and growth of co-culture tumour spheroids: new mathematical models and experiments https://doi.org/10.1101/2022.12.21.521515
 
-Preprint available on bioRxiv: https://doi.org/10.1101/2022.12.21.521515
+Preprint available on bioRxiv: [https://doi.org/10.1101/2022.12.21.521515](https://doi.org/10.1101/2022.12.21.521515)
 
 This repository holds key Julia code and all experimental data used to generate figures in the the manuscript (version 2 on bioRxiv).
 
@@ -10,9 +10,6 @@ Code developed and run in December 2022 using:
 
 - Julia Version  1.7.2 (see https://julialang.org/downloads/ )
 - Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings, DifferentialEquations, CSV, DataFrames, Parsers
-
-
-Preprint available on bioRxiv: https://doi.org/10.1101/2022.07.27.501797 
 
 ## Guide to using the code
 The script InstallPackages.jl can be used to install packages (by uncommenting the relevant lines). There are five scripts and four data files summarised in the table below. Each script loads experimental data, plots the experimental data, simulates the mathematical model, computes the MLE (Fig 4,5,7 only), profile likelihoods (Fig 4,5,7 only), and bounds for approximate confidence intervals (Fig 4,5,7 only).
